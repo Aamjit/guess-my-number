@@ -6,7 +6,7 @@
 
 <p align="center">---:smiley: how the game works :smiley:---</p>
 
-![Snapshot of the game](/guess my number.png)
+![Snapshot of the game](https://github.com/Aamjit/guess-my-number/blob/main/guess%20my%20number.png)
 
 The game will generate a random number ranging from 1 to 20
 
