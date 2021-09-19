@@ -6,7 +6,7 @@
 
 <p align="center">---:smiley: how the game works :smiley:---</p>
 
-![Snapshot of the game](./guess my number.png)
+![Snapshot of the game](/guess my number.png)
 
 The game will generate a random number ranging from 1 to 20
 
